@@ -1,0 +1,25 @@
+{
+    "name": "Matt3D",
+        "id": "com.matt3d.vpm",
+        "url": "https://matt2707.github.io/Matt3D-Clothing-installer-Tool/index.json",
+        "author": "Matt3D",
+        "packages": {
+          "com.matt3d.clothing-installer": {
+                  "versions": {
+                            "1.0.0": {
+                                        "name": "com.matt3d.clothing-installer",
+                                                    "displayName": "Matt3D Clothing Installer",
+                                                    "version": "1.0.0",
+                                                    "description": "Easily install and manage Matt3D clothing products on your VRChat avatar.",
+                                                    "unity": "2022.3",
+                                                    "author": {
+                                                      "name": "Matt3D",
+                                                                    "url": "https://www.matt3d.net/"
+                                        },
+                              "url": "https://github.com/Matt2707/Matt3D-Clothing-installer-Tool/releases/download/1.0.0/com.matt3d.clothing-installer-1.0.0.zip",
+                                          "vpmDependencies": {}
+                            }
+                  }
+          }
+    }
+}
